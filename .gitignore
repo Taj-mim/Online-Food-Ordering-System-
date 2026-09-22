@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.csproj.user
+
+# ASP.NET / .NET
+appsettings.Development.json
+
+# Local database
+*.db
+
+# Environment variables
+.env
